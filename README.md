@@ -15,7 +15,7 @@ Speak SQL is a groundbreaking project aimed at simplifying the process of conver
 
 ## Project Architecture
 
-![Flowchart](./images/flowchart.png)
+ ![image](https://github.com/jeeeet25/NLP-to-SQL/assets/40267283/f7ac79d6-1497-4884-8bf5-5f1455f8d766)
 
 1. **CSV Import**: Import data from a CSV file into a Pandas DataFrame.
 2. **SQL Database Setup**: Create a temporary in-memory database using SQLAlchemy.
