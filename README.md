@@ -1,7 +1,7 @@
 # Speak SQL: Harnessing OpenAI for Effortless Natural Language Querying
 
 ## Overview
-Speak SQL is a groundbreaking project aimed at simplifying the process of converting natural language queries into SQL commands. Whether you're a non-technical stakeholder or a seasoned SQL expert, our solution bridges the gap between human language and database operations, making data querying more intuitive and accessible.
+Speak SQL is a groundbreaking project aimed at simplifying the process of converting natural language queries into SQL commands. Whether you're a non-technical stakeholder or a seasoned SQL expert, our solution bridges the gap between human language and database operations, making data querying more intuitive and accessible. [Link to the blog!](https://medium.com/@pateljeet499/speak-sql-harnessing-openai-for-effortless-natural-language-querying-c09b776455ee)
 
 ---
 
